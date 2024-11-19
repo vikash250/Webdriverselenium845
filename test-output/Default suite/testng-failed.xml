@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testscript.GooglePageTest">
+      <class name="testscript.JavaScriptExecutorTest">
         <methods>
-          <include name="SerchJavaTest"/>
+          <include name="f"/>
         </methods>
-      </class> <!-- testscript.GooglePageTest -->
+      </class> <!-- testscript.JavaScriptExecutorTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
